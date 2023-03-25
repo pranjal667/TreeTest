@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class Test {
+public class Q1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Give the size of an array: ");
